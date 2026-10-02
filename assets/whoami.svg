@@ -12,7 +12,7 @@
   </style>
   <line x1="160" y1="8" x2="160" y2="180" stroke="#D0D7DE" stroke-width="1"/>
   <text class="mono rise a1" x="48" y="32" font-size="11" fill="#6E7781" letter-spacing="2.5">ROLE</text>
-  <text class="mono rise a1" x="178" y="32" font-size="15" fill="#1F2328" >Software Engineer at TOTVS — Brazil</text>
+  <text class="mono rise a1" x="178" y="32" font-size="15" fill="#1F2328" >AI Engineer at TOTVS — Brazil</text>
   <text class="mono rise a2" x="48" y="66" font-size="11" fill="#6E7781" letter-spacing="2.5">FOCUS</text>
   <text class="mono rise a2" x="178" y="66" font-size="15" fill="#1F2328" >AI agents · LLM tooling · Clean Architecture · DDD</text>
   <text class="mono rise a3" x="48" y="100" font-size="11" fill="#6E7781" letter-spacing="2.5">BUILDING</text>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"/><img src="assets/header.svg" alt="Caio Miranda Coelho — Software Engineer at TOTVS"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"/><img src="assets/header.svg" alt="Caio Miranda Coelho — AI Engineer at TOTVS"/></picture>
 
 <a href="https://www.linkedin.com/in/caio-miranda-coelho/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LINKEDIN"/></picture></a>
 <a href="https://www.youtube.com/@CaioCoelhoTech"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/YOUTUBE-0d1117?style=flat-square&logo=youtube&logoColor=ffffff"/><img src="https://img.shields.io/badge/YOUTUBE-ffffff?style=flat-square&logo=youtube&logoColor=000000" alt="YOUTUBE"/></picture></a>
@@ -10,7 +10,7 @@
 </div>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"/><img src="assets/s01.svg" alt="01 — whoami"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="Software Engineer at TOTVS, focused on AI agents and software architecture"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="AI Engineer at TOTVS, focused on AI agents and software architecture"/></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"/><img src="assets/s02.svg" alt="02 — projects"/></picture>
 

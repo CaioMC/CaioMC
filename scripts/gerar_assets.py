@@ -40,12 +40,12 @@ def header(t):
         txt(48, 44, "PROFILE — INDEX Nº 001", t, 11, "muted", "rise a1", 'letter-spacing="3.5"'),
         txt(952, 44, "JOINVILLE, SC — 26.30° S", t, 11, "muted", "rise a1", 'letter-spacing="3.5" text-anchor="end"'),
         txt(46, 160, "Caio Miranda Coelho", t, 64, "bone", "rise a2", 'letter-spacing="-2"'),
-        txt(48, 202, "Software Engineer @ TOTVS — AI & Software Architecture.", t, 19, "muted", "rise a3"),
+        txt(48, 202, "AI Engineer @ TOTVS — LLM Agents & Software Architecture.", t, 19, "muted", "rise a3"),
         f'  <text class="mono rise a4" x="48" y="262" font-size="16" fill="{t["accent"]}">$ whoami --focus<tspan fill="{t["bone"]}"> ai-agents · clean-architecture · ddd · cloud</tspan><tspan class="blink" fill="{t["accent"]}"> ▌</tspan></text>',
         f'  <line class="draw a5" x1="48" y1="300" x2="952" y2="300" stroke="{t["rule"]}" stroke-width="1"/>',
         txt(48, 326, "“Focusing on the process and trusting in the hard work when it matters most.”", t, 13, "muted", "rise a6", 'font-style="italic"'),
     ]
-    return base(1000, 350, "Caio Miranda Coelho — Software Engineer at TOTVS", "\n".join(c), t)
+    return base(1000, 350, "Caio Miranda Coelho — AI Engineer at TOTVS", "\n".join(c), t)
 
 
 def secao(num, nome, t):
@@ -68,7 +68,7 @@ def linhas_rotuladas(itens, t, label, top=32, passo=34):
 
 
 WHOAMI = [
-    ("ROLE", "Software Engineer at TOTVS — Brazil", "bone"),
+    ("ROLE", "AI Engineer at TOTVS — Brazil", "bone"),
     ("FOCUS", "AI agents · LLM tooling · Clean Architecture · DDD", "bone"),
     ("BUILDING", "local coding agents: sandboxed, observable, human-in-the-loop", "accent"),
     ("LOVES", "techniques, patterns and software architecture", "bone"),
